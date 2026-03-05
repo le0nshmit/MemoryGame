@@ -10,3 +10,10 @@ dissapear for the user to remember
 - Allow user to make an account to store score
 
 
+## TechStack
+
+- Python, Jinja (Backend)
+
+- HTML, CSS, JS (Frontend)
+
+- SQLite (Database)
